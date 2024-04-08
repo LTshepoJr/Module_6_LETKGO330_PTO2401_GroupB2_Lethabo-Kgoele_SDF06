@@ -47,6 +47,11 @@ button:hover {
     cursor: pointer;
 }
 
+button:focus {
+    background-color: #432000;
+    cursor: pointer;
+}
+
 ul {
     list-style-type: none;
     padding: 0;
