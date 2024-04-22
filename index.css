@@ -83,3 +83,7 @@ ul li:hover {
     background-color: var(--lght-frn);
     cursor: pointer;
 }
+
+h1 {
+    text-align: center;
+}
